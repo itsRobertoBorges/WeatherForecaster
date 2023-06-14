@@ -1,6 +1,8 @@
 # Weather Forecast Application
 
-Welcome to my Weather Forecast Application! This application provides real-time weather information for different cities around the world. You can search for a city and retrieve its name, temperature in Celsius, and whether it is cloudy or sunny.
+Welcome to my simple Weather Forecast Application! This application provides real-time weather information for different cities around the world. You can search for a city and retrieve its name, temperature in Celsius, and whether it is cloudy or sunny.
+
+I wanted something my grandmother could use that was simple and easy to use for someone that was from a different time and wasn't very tech savvy
 
 ## Screenshots
 
